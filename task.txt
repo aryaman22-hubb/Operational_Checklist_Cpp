@@ -1,0 +1,11 @@
+ 1) Study for Exams
+
+Deadline: 2025-12-02
+Priority: Low (0)
+Recurring: No
+
+ 2) Study Linked Lists
+
+Deadline: 2025-02-22
+Priority: High (1)
+Recurring: No
